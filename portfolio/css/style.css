@@ -1,6 +1,13 @@
 body {
-  background-image: url('..images/pattern1.png');
+  background-image: url('...images/pattern1.png');
   background-repeat: no-repeat; 
+  
+  #container {
+  	background-color: ed6c63;
+  	width: 700px;
+  	height: 400px;
+  	margin: 2 auto 0 auto;
+  }
 }
 
 /* 
